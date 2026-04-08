@@ -1,7 +1,7 @@
 # Portafolio
 # Roberta Olivares
 
-Ingeniera Civil Industrial en transición hacia el análisis de datos, con formación en SQL, Python, Power BI y Excel Avanzado.
+Analista de Datos en formación | SQL | Python | Power BI
 ## Sobre mí
 Ingeniera Civil Industrial con experiencia en área administrativa, análisis de datos y control de procesos. Me caracterizo por un enfoque analítico, orientación al detalle y capacidad para gestionar información de manera precisa, contribuyendo al cumplimiento y mejora de procesos.
 
