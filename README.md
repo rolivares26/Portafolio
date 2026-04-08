@@ -69,6 +69,13 @@ Se diseñó un dashboard con visualizaciones que permiten analizar el desempeño
 - Visualización de información
 - Pensamiento analítico
 
+  
+### Vista del dashboard
+![Dashboard Power BI](assets/dashboard-powerbi.png)
+
+### Ver archivo
+[Descargar archivo Power BI](link-a-tu-archivo.pbix)
+
 ### ¿Por qué elegí este proyecto?
 Elegí este proyecto porque integra habilidades clave del análisis de datos, desde la preparación de información hasta la construcción de indicadores y visualización. Además, refleja un caso real de negocio donde el análisis de ventas y metas es fundamental para la toma de decisiones.
 
